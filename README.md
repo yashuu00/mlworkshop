@@ -1,2 +1,2 @@
 # mlworkshop
-for leraning machine learning
+for learning machine learning
